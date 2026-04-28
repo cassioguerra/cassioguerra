@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Seja+bem-vindo!+👋;Eu+sou+Cássio+Guerra!;Full+Stack+Developer+💻;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Seja+bem-vindo!+👋;Eu+sou+Cássio+Guerra!;Full+Stack+Developer+💻;Oracle+%7C+Azure+%7C+AWS+Certified+☁️;" />
 </h1>
 
 <p align="center">
@@ -11,13 +11,26 @@
 ### 👨‍💻 Sobre mim
 
 ```yaml
-Nome        : Cássio Guerra
-Cargo       : Full Stack Developer
-Foco        : Backend & Sistemas Industriais (MES/MMS)
-Localização : Brasil 🇧🇷
-Email       : cassioguerra@live.com
-LinkedIn    : linkedin.com/in/cassio-guerra-09152895
+Nome           : Cássio Guerra
+Cargo          : Full Stack Developer
+Foco           : Backend & Sistemas Industriais (MES/MMS)
+Certificações  : Oracle Certified ☀️ | Microsoft Azure ☁️ | AWS ☁️
+Localização    : Brasil 🇧🇷
+Email          : cassioguerra@live.com
+LinkedIn       : linkedin.com/in/cassio-guerra-09152895
 ```
+
+---
+
+### 🏆 Certificações
+
+<div align="center">
+
+![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
@@ -42,8 +55,15 @@ LinkedIn    : linkedin.com/in/cassio-guerra-09152895
 
 #### 🗄️ Banco de Dados
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### 🛠️ DevOps & Infra
 
@@ -69,7 +89,7 @@ LinkedIn    : linkedin.com/in/cassio-guerra-09152895
 
 ---
 
-### ��� Conecte-se comigo
+### 🌐 Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/cassio-guerra-09152895/" target="_blank">
