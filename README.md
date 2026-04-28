@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+Seja+bem-vindo!+👋;Eu+sou+Cássio+Guerra!;Full+Stack+Developer+💻;Oracle+%7C+Azure+%7C+AWS+Certified+☁️;" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cássio+Guerra&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%7C+Engenheiro+Mecânico&descAlignY=55&descAlign=50"/>
+</div>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Full+Stack+Developer+☕+Java+%7C+Spring;Node.js+%7C+HTML+%7C+CSS+%7C+JavaScript;Engenheiro+Mecânico+⚙️;Oracle+%7C+Azure+%7C+AWS+Certified+☁️;" />
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cassioguerra&color=blueviolet&style=flat-square&label=Visitas+no+Perfil" alt="profile views" />
@@ -13,7 +17,10 @@
 ```yaml
 Nome           : Cássio Guerra
 Cargo          : Full Stack Developer
-Foco           : Backend & Sistemas Industriais (MES/MMS)
+Stack Principal: Java SE | Java EE | Spring | Spring Boot | Node.js
+Frontend       : HTML | CSS | JavaScript
+Integrações    : XML | REST | AWS
+Formação Extra : Engenheiro Mecânico ⚙️
 Certificações  : Oracle Certified ☀️ | Microsoft Azure ☁️ | AWS ☁️
 Localização    : Brasil 🇧🇷
 Email          : cassioguerra@live.com
@@ -28,7 +35,7 @@ LinkedIn       : linkedin.com/in/cassio-guerra-09152895
 
 ![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/Amazon_AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -38,24 +45,27 @@ LinkedIn       : linkedin.com/in/cassio-guerra-09152895
 
 <div align="center">
 
-#### 🌐 Frontend
+#### ☕ Java & Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java SE](https://img.shields.io/badge/Java_SE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java_EE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
+#### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 🗄️ Banco de Dados
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -71,6 +81,11 @@ LinkedIn       : linkedin.com/in/cassio-guerra-09152895
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### ⚙️ Engenharia Mecânica
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 
 </div>
 
